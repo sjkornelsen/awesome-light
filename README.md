@@ -95,6 +95,12 @@ A simple camera app for the Light Phone III.
 
 <a href="https://github.com/vandamd/zero" target="_blank" rel="noopener"><img alt="Zero" src="https://raw.githubusercontent.com/garado/awesome-light/hugo/content/apps/vandamd_zero/hero.png" /></a>
 
+### [Photos Backup](https://github.com/sjkornelsen/light-photo-backup-public) ([stanleyjk](https://github.com/stanleyjk/))
+
+A tool to backup up your photos to Google Photos. 
+
+<a href="https://github.com/sjkornelsen/bard" target="_blank" rel="noopener"><img alt="Photos Backup" src="https://github.com/user-attachments/assets/251d2346-fda1-48ec-87bf-649c7a007a0a" /></a>
+
 ## Productivity
 
 ### [Checklist](https://github.com/ak-nattyb/Checklist) ([ak-nattyb](https://github.com/ak-nattyb/))
